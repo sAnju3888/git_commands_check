@@ -1,5 +1,5 @@
 def fun(name):
-    return len(name)
+    return len(name)+name
 
 
 print(fun("sjvkjj"))
